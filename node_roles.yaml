@@ -1,4 +1,4 @@
-standalone-ceph-controller:
+ceph-controller:
   name: "Ceph Controller"
   description: "Standalone Ceph controller"
   has_primary: false

@@ -1,6 +1,6 @@
 volumes_roles_mapping:
   # Default role mapping
-  standalone-ceph-controller:
+  ceph-controller:
     - {allocate_size: "min", id: "os"}
 
 # Set here new volumes for your role
